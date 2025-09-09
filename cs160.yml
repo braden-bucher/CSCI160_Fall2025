@@ -1,0 +1,18 @@
+name: cs160
+channels:
+  - anaconda
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - jupyter
+  - numpy
+  - metpy
+  - siphon
+  - pandas
+  - xarray
+  - scipy
+  - matplotlib
+  - requests
+  - netcdf4
+  - cartopy
